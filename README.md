@@ -2,7 +2,11 @@
 
 ---
 
-Explore a collection of free design resources ideal for graphic designers, UI/UX designers, and web developers. From vibrant color palettes to diverse typography options, along with a rich collection of icons, illustrations, and high-quality images, this compilation caters to all creative needs. Elevate your projects with these invaluable tools, offering a perfect blend of utility and creativity. 💡🎨
+Explore a collection of free design resources ideal for **Graphic Designers**, **UI/UX Designers**, and **Web Developers**.
+
+From vibrant color palettes to diverse typography options, along with a rich collection of icons, illustrations, and high-quality images, this compilation caters to all creative needs.
+
+Elevate your projects with these invaluable tools, offering a perfect blend of utility and creativity. 💡🎨
 
 ---
 
@@ -135,9 +139,10 @@ Feel free to explore and elevate your creative game! ✨
 
 ## ☕ Follow Me for More:
 
+[![GitHub](https://img.shields.io/badge/GitHub-FFF?logo=GitHub&logoColor=171515)](https://GitHub.net/smobin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m0bin)
-[![Mail](https://img.shields.io/badge/gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:shehjad0mobin@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smobin)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m00bin)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.net/smobin)
+[![Mail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:shehjad0mobin@gmail.com)
 [![Web](https://img.shields.io/badge/smobin.com-%FEC111.svg?logo=googlechrome&logoColor=white)](https://www.smobin.com)
 <br/>
