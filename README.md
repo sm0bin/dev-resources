@@ -1,4 +1,4 @@
-# 🌈 **Ultimate Free Design Resources for Designers & Developers! 🎨**
+## **Ultimate Free Design Resources for Designers & Developers! 🎨**
 
 ---
 
@@ -83,6 +83,10 @@ Explore a collection of free design resources ideal for graphic designers, UI/UX
 2. Unsplash: [unsplash.com](https://unsplash.com/)
 3. Pixabay: [pixabay.com](https://pixabay.com/)
 4. Freepik: [freepik.com](https://www.freepik.com/)
+5. Shopify Stock Photos: [shopify.com](https://www.shopify.com/stock-photos)
+6. Vecteezy: [vecteezy.com](https://www.vecteezy.com/free-photos)
+7. Canva: [canva.com](https://www.canva.com/photos/free)
+8. FreeImages: [freeimages.com](https://www.freeimages.com/)
 
 **UI Designs & Inspirations:**
 
