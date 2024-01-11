@@ -1,13 +1,19 @@
-🌈 **Design Resources Galore! 🎨**
+## 🌈 **Ultimate Free Design Resources for Designers & Developers! 🎨**
 
 **Color Palettes:**
 
 1. Adobe Color Wheel: [color.adobe.com](https://color.adobe.com/)
 2. Color Hunt: [colorhunt.co](https://colorhunt.co/)
 3. Coolors: [coolors.co](https://coolors.co/)
+
+**Color Palettes Generator:**
+
 4. Colors by Muzli: [colors.muz.li](https://colors.muz.li/)
 5. ColorMagic: [colormagic.app](https://colormagic.app/)
 6. HueMint: [huemint.com](https://huemint.com/)
+
+**Contrast Checker:**
+
 7. Coolors Contrast Checker: [coolors.co/contrast-checker](https://coolors.co/contrast-checker)
 8. Colour Contrast: [colourcontrast.cc](https://colourcontrast.cc/)
 
@@ -20,6 +26,9 @@
 5. Font Space: [fontspace.com](https://www.fontspace.com/)
 6. 1001 Fonts: [1001fonts.com](https://www.1001fonts.com/)
 7. DaFont: [dafont.com](https://www.dafont.com/)
+
+**Bonus Type Tools:**
+
 8. Type Scale: [typescale.com](https://typescale.com/)
 9. Font Pair: [fontpair.co](https://www.fontpair.co/all)
 10. FontJoy: [fontjoy.com](https://fontjoy.com/)
@@ -55,12 +64,12 @@
 
 **Bonus 3D Illustrations:**
 
-- 3D Icons: [3dicons.co](https://3dicons.co/)
-- 3D Flame: [icons8.com/illustrations/style--3d-flame](https://icons8.com/illustrations/style--3d-flame)
-- Figma Community 3D Space Pack: [figma.com/community/file/1104859676923731933](https://www.figma.com/community/file/1104859676923731933/3d-space-pack-free)
-- Nikuu 3D Illustration Pack: [figma.com/community/file/1000311109311441524](https://www.figma.com/community/file/1000311109311441524/nikuu-3d-illustration-pack-by-paperpillar)
-- Saly 3D Illustration Pack: [figma.com/community/file/890095002328610853](https://www.figma.com/community/file/890095002328610853/saly-3d-illustration-pack)
-- Open Source 3D Icons: [figma.com/community/file/1030350068466019692](https://www.figma.com/community/file/1030350068466019692/3dicons-open-source-3d-icon-library)
+1. 3D Icons: [3dicons.co](https://3dicons.co/)
+2. 3D Flame: [icons8.com/illustrations/style--3d-flame](https://icons8.com/illustrations/style--3d-flame)
+3. Figma Community 3D Space Pack: [figma.com/community/file/1104859676923731933](https://www.figma.com/community/file/1104859676923731933/3d-space-pack-free)
+4. Nikuu 3D Illustration Pack: [figma.com/community/file/1000311109311441524](https://www.figma.com/community/file/1000311109311441524/nikuu-3d-illustration-pack-by-paperpillar)
+5. Saly 3D Illustration Pack: [figma.com/community/file/890095002328610853](https://www.figma.com/community/file/890095002328610853/saly-3d-illustration-pack)
+6. Open Source 3D Icons: [figma.com/community/file/1030350068466019692](https://www.figma.com/community/file/1030350068466019692/3dicons-open-source-3d-icon-library)
 
 **Images:**
 
@@ -76,7 +85,7 @@
 3. Behance: [behance.net](https://www.behance.net/)
 4. Dribbble: [dribbble.com](https://dribbble.com/)
 5. DeviantArt: [deviantart.com](https://www.deviantart.com/)
-6. Niice.co: [niice.co](https://niice.co/)
+6. Niice: [niice.co](https://niice.co/)
 7. Awwwards: [awwwards.com](https://awwwards.com/)
 8. Collect UI: [collectui.com](https://collectui.com/)
 9. Figma Community: [figma.com/community](https://www.figma.com/community/)
@@ -101,11 +110,10 @@
 2. UI Gradients: [uigradients.com](https://uigradients.com/)
 3. Gradient Hunt: [gradienthunt.com](https://gradienthunt.com/)
 4. Grabient: [grabient.com](https://www.grabient.com/)
-5. Gradientsa.io: [gradienta.io](https://gradienta.io/)
-6. CSS Gradient: [cssgradient.io](https://cssgradient.io/)
-7. Gradients Party: [gradients.party](https://gradients.party/)
-8. Gradients Guru: [gradientsguru.com](https://gradientsguru.com/)
-9. Egg Gradients: [eggradients.com](https://www.eggradients.com/)
-10. Mesh Gradients: [products.ls.graphics/mesh-gradients](https://products.ls.graphics/mesh-gradients/)
+5. CSS Gradient: [cssgradient.io](https://cssgradient.io/)
+6. Gradients Party: [gradients.party](https://gradients.party/)
+7. Gradients Guru: [gradientsguru.com](https://gradientsguru.com/)
+8. Egg Gradients: [eggradients.com](https://www.eggradients.com/)
+9. Mesh Gradients: [products.ls.graphics/mesh-gradients](https://products.ls.graphics/mesh-gradients/)
 
-Feel free to explore and elevate your design game! 💻✨ #DesignResources #CreativityUnleashed
+Feel free to explore and elevate your creative game! ✨
