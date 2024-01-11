@@ -111,8 +111,9 @@ Explore a collection of free design resources ideal for graphic designers, UI/UX
 4. Pixeden: [pixeden.com](https://www.pixeden.com/)
 5. Smart Mockups: [smartmockups.com](https://smartmockups.com/)
 6. Blugraphic: [blugraphic.com](https://www.blugraphic.com/)
-7. Previewed: [previewed.app](https://previewed.app
-8. Unblast: [unblast.com](https://unblast.com/) 9. Mockups Design: [mockups-design.com](https://mockups-design.com/)
+7. Previewed: [previewed.app](https://previewed.app)
+8. Unblast: [unblast.com](https://unblast.com/)
+9. Mockups Design: [mockups-design.com](https://mockups-design.com/)
 
 **Gradients:**
 
@@ -127,3 +128,16 @@ Explore a collection of free design resources ideal for graphic designers, UI/UX
 9. Mesh Gradients: [products.ls.graphics/mesh-gradients](https://products.ls.graphics/mesh-gradients/)
 
 Feel free to explore and elevate your creative game! ✨
+
+<br/>
+
+---
+
+## ☕ Follow Me for More:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m0bin)
+[![Mail](https://img.shields.io/badge/gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:shehjad0mobin@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smobin)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m00bin)
+[![Web](https://img.shields.io/badge/smobin.com-%FEC111.svg?logo=googlechrome&logoColor=white)](https://www.smobin.com)
+<br/>
